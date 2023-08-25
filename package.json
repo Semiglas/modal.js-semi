@@ -1,0 +1,15 @@
+{
+  "name": "modal",
+  "version": "1.0.0",
+  "description": "color only accepts hex or rgb/rgba value\r backgroundOpacity default is '0.7'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.9.0"
+  }
+}
